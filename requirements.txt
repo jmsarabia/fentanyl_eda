@@ -2,6 +2,4 @@ jupyter
 pandas
 matplotlib
 seaborn
-selenium
-beautifulsoup4
 lxml
