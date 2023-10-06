@@ -7,8 +7,8 @@ use a phony target: to
 all: setup
 
 setup:
-	python3 -m venv ~/.venv/msdsCapstone_get_jobs
+	python3 -m venv ~/.venv/msdsCapstone_fentanyl_eda
         # https://docs.python.org/3/library/venv.html#creating-virtual-environments
-	# After running `Make setup`, add an alias to your .zshrc file, i.e. `cd ~/workspace/get_jobs && source ~/.venv/msdsCapstone_get_jobs/bin/activate`
+	# After running `Make setup`, add an alias to your .zshrc file, i.e. `cd ~/workspace/fentanyl_eda && source ~/.venv/msdsCapstone_fentanyl_eda/bin/activate`
 install:
 	pip3 install -r requirements.txt
