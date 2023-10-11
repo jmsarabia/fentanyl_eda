@@ -22,4 +22,14 @@ Notes:
 3. Install the libraries from `requirements.txt` by running the command `pip3 install -r requirements.txt`.  If you don't have pip3 installed on your machine, the command is just `pip install -r requirements.txt`.  You should see all the libraries being installed in your virtual environment.
 
 __Jupyter__
-1. To start your Jupyter notebook, once your in your virtual environment, run the command `jupyter notebook`.  Th
+1. To start your Jupyter notebook, once your in your virtual environment, run the command `jupyter notebook`.  This will start a Jupyter server.  You can then create new notebooks, or open the existing one(s), such as `EDA.ipynb`.
+
+__Publishing Changes to the Repo__
+
+If you are in a position where you don't want or need a code review for changes you made:
+1. Make sure you have the latest changes from everyone pulled into your local copy of the repo by running the command `git pull`, or `git pull --rebase`
+2. Run `git add <filename>` to stage a single file to your local version of the repo or `git add *` to stage all files that you've changed to your local version of the repository
+3. Run `git commit -m "some explanation of the changes you made"` to commit them to your local version of the repo
+4. Run `git push` to push those changes directly to the remote repository.  Note: This can be dangerous since we're not having anyone review your code, but this is just an EDA package.
+
+If we want to do more complicated things like using branches and pull requests to review changes before merging them into our mainline branch, read up on this process here: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request.  
