@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2021v4.3">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2022-10-14T08:24:18-04:00</ReturnTs>
+    <TaxPeriodEndDt>2021-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>850436394</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>DAN AUSTIN CPA PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>700 MECHEM DR STE 15</AddressLine1Txt>
+        <CityNm>RUIDOSO</CityNm>
+        <StateAbbreviationCd>NM</StateAbbreviationCd>
+        <ZIPCd>883456909</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990T</ReturnTypeCd>
+    <TaxPeriodBeginDt>2021-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>850159171</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>BOYS AND GIRLS CLUB OF</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>CARLSBAD INC</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>BOYS</BusinessNameControlTxt>
+      <PhoneNum>5758858449</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 536</AddressLine1Txt>
+        <CityNm>CARLSBAD</CityNm>
+        <StateAbbreviationCd>NM</StateAbbreviationCd>
+        <ZIPCd>882210536</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DAVID BEATY</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>5758858449</PhoneNum>
+      <SignatureDt>2002-10-10</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <SigningOfficerGrp>
+      <PersonFullName>
+        <PersonFirstNm>DAVID</PersonFirstNm>
+        <PersonLastNm>BEATY</PersonLastNm>
+      </PersonFullName>
+      <SSN>XXX-XX-XXXX</SSN>
+    </SigningOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>DAN AUSTIN CPA</PreparerPersonNm>
+      <PTIN>P00176225</PTIN>
+      <PhoneNum>5752570081</PhoneNum>
+      <PreparationDt>2022-10-14</PreparationDt>
+    </PreparerPersonGrp>
+    <TaxYr>2021</TaxYr>
+    <BuildTS>2022-09-23 18:48:47Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="3">
+    <IRS990T documentId="RetDoc2" referenceDocumentId="RetDoc4">
+      <Organization501IndicatorGrp>
+        <Organization501Ind>X</Organization501Ind>
+        <Organization501cTypeTxt>c3</Organization501cTypeTxt>
+      </Organization501IndicatorGrp>
+      <BookValueAssetsEOYAmt>1468399</BookValueAssetsEOYAmt>
+      <Organization501cCorporationInd>X</Organization501cCorporationInd>
+      <Form990TScheduleAAttachedCnt referenceDocumentId="RetDoc3">1</Form990TScheduleAAttachedCnt>
+      <SubsidiaryCorporationInd>false</SubsidiaryCorporationInd>
+      <BooksInCareOfDetail>
+        <BusinessName>
+          <BusinessNameLine1Txt>CARLSBAD BOYS AND GIRLS C</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 536</AddressLine1Txt>
+          <CityNm>CARLSBAD</CityNm>
+          <StateAbbreviationCd>NM</StateAbbreviationCd>
+          <ZIPCd>88221</ZIPCd>
+        </USAddress>
+        <PhoneNum>5758858449</PhoneNum>
+      </BooksInCareOfDetail>
+      <TotalUBTIComputedAmt>-45060</TotalUBTIComputedAmt>
+      <TotalUBTIBeforeNOLSpecificAmt>-45060</TotalUBTIBeforeNOLSpecificAmt>
+      <NetOperatingLossDeductionAmt referenceDocumentId="RetDoc6">0</NetOperatingLossDeductionAmt>
+      <TotalUBTIBeforeSection199AAmt>-45060</TotalUBTIBeforeSection199AAmt>
+      <SpecificDeductionAmt>1000</SpecificDeductionAmt>
+      <TotalDeductionAmt>1000</TotalDeductionAmt>
+      <TotalUBTIAmt>0</TotalUBTIAmt>
+      <TaxableCorporationAmt>0</TaxableCorporationAmt>
+      <TaxableTrustAmt>0</TaxableTrustAmt>
+      <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      <ForeignTrustQuestionInd>false</ForeignTrustQuestionInd>
+      <AvlblPre2018NOLCarryoverAmt>-1067</AvlblPre2018NOLCarryoverAmt>
+      <Post2017NOLCarryoverGrp>
+        <PrincipalBusinessActivityCd>713200</PrincipalBusinessActivityCd>
+        <AvlblPost2017NOLCarryoverAmt>77276</AvlblPost2017NOLCarryoverAmt>
+      </Post2017NOLCarryoverGrp>
+      <ChangeInMethodOfAccountingInd>false</ChangeInMethodOfAccountingInd>
+    </IRS990T>
+    <IRS990TScheduleA documentId="RetDoc3">
+      <PrincipalBusinessActivityCd>713200</PrincipalBusinessActivityCd>
+      <SequenceReferenceNum>1</SequenceReferenceNum>
+      <SequenceTotalNum>1</SequenceTotalNum>
+      <TradeOrBusinessDesc>UNRELATED BUSINESS ACTIVITY</TradeOrBusinessDesc>
+      <GrossReceiptsOrSalesAmt>360143</GrossReceiptsOrSalesAmt>
+      <NetGrossReceiptsOrSalesAmt>360143</NetGrossReceiptsOrSalesAmt>
+      <GrossProfitAmt>360143</GrossProfitAmt>
+      <TotUnrltTrdBusIncmAmt>360143</TotUnrltTrdBusIncmAmt>
+      <TotUnrltTrdBusIncmExpnssAmt>0</TotUnrltTrdBusIncmExpnssAmt>
+      <TotNetUnrltTrdBusIncmAmt>360143</TotNetUnrltTrdBusIncmAmt>
+      <SalariesAndWagesAmt>17315</SalariesAndWagesAmt>
+      <RepairsAndMaintenanceAmt>6257</RepairsAndMaintenanceAmt>
+      <TaxesAndLicensesAmt>4249</TaxesAndLicensesAmt>
+      <TotalDepreciationAmt>72616</TotalDepreciationAmt>
+      <DepreciationNetAmt>72616</DepreciationNetAmt>
+      <OtherDeductionsAmt referenceDocumentId="RetDoc5">304766</OtherDeductionsAmt>
+      <TotalDeductionsAmt>405203</TotalDeductionsAmt>
+      <UBIBeforeNOLDedAmt>-45060</UBIBeforeNOLDedAmt>
+      <UnrelatedBusinessTaxblIncmAmt>-45060</UnrelatedBusinessTaxblIncmAmt>
+    </IRS990TScheduleA>
+    <IRS4562 documentId="RetDoc1">
+      <BusinessOrActivityTxt>INDIRECT DEPRECIATION</BusinessOrActivityTxt>
+      <MaximumDollarLimitationAmt>1050000</MaximumDollarLimitationAmt>
+      <ThresholdCostOfSect179PropAmt>2620000</ThresholdCostOfSect179PropAmt>
+      <OtherDepreciationAmt>95552</OtherDepreciationAmt>
+      <TotalDepreciationAmt>95552</TotalDepreciationAmt>
+    </IRS4562>
+  </ReturnData>
+</Return>
