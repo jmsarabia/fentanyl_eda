@@ -107,7 +107,7 @@ print(merged_results)
 ######
 # Merge with base data
 
-Basedata <- fread("Multiple Cause of Death, 1999-2020 Age Gender Year Race COD Socioec.txt")
+# Basedata <- fread("Multiple Cause of Death, 1999-2020 Age Gender Year Race COD Socioec.txt")
 Basedata <- fread("cleaned_wonder.csv")
 Basedata
 names(Basedata)
@@ -148,6 +148,8 @@ names(Basedata) <- trimws(names(Basedata))
 # str(Basedata)
 # Perform the join and create LifeYearsLost variable based on Gender
 # Basedata[, LifeYearsLost := as.numeric(LifeYearsLost)]
-Basedata[merged_results, LifeYearsLost := ifelse(Gender == "Female", i.ex_Female, i.ex_Male), on = .(age_midpoint = Age)]
-
+Basedata[merged_results, LifeYearsLostUnit := ifelse(Gender == "Female", i.ex_Female, i.ex_Male), on = .(age_midpoint = Age)]
+Basedata[,LifeYearsLostTotal := LifeYearsLostUnit * Deaths]
+Basedata[`Multiple Cause of death Code` == "T40.4", sum(LifeYearsLostTotal, na.rm = TRUE)]
+Basedata[`Multiple Cause of death Code` == "T40.4", sum(Deaths, na.rm = TRUE)]
 fwrite(Basedata, 'C:/Users/hui_e/OneDrive/Documents/Personal Business/MSDS_MyPC/Courses/2023/2023f 498 Capstone/cleaned_wonder_LifeYrsLostAdded10212023.csv')
