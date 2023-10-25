@@ -1,5 +1,7 @@
 Process:
 
+Add a file to this directory named "googlemaps_key.txt" and add in your own Google Maps API key -  this is used to turn address into county/FIPS and zip (if not in address)
+
 Download the XML files and unzip them to your local machine
 
 Change the path variables in Python (already in notebook) to wherever you store all the XML files:
