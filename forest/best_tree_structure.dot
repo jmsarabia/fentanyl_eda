@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="Population <= 35375.0\nsquared_error = 151.756\nsamples = 4462\nvalue = 7.834"] ;
+1 [label="squared_error = 285.212\nsamples = 447\nvalue = 24.166"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Year <= 2016.5\nsquared_error = 103.895\nsamples = 4015\nvalue = 6.015"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+3 [label="Population <= 212337.5\nsquared_error = 12.559\nsamples = 2820\nvalue = 2.76"] ;
+2 -> 3 ;
+4 [label="squared_error = 15.592\nsamples = 447\nvalue = 6.826"] ;
+3 -> 4 ;
+5 [label="Year <= 2013.5\nsquared_error = 8.287\nsamples = 2373\nvalue = 1.994"] ;
+3 -> 5 ;
+6 [label="Population <= 335851.0\nsquared_error = 0.668\nsamples = 1856\nvalue = 1.318"] ;
+5 -> 6 ;
+7 [label="squared_error = 0.385\nsamples = 516\nvalue = 1.873"] ;
+6 -> 7 ;
+8 [label="Population <= 1500674.5\nsquared_error = 0.613\nsamples = 1340\nvalue = 1.105"] ;
+6 -> 8 ;
+9 [label="squared_error = 0.287\nsamples = 724\nvalue = 0.826"] ;
+8 -> 9 ;
+10 [label="squared_error = 0.798\nsamples = 616\nvalue = 1.432"] ;
+8 -> 10 ;
+11 [label="squared_error = 28.106\nsamples = 517\nvalue = 4.422"] ;
+5 -> 11 ;
+12 [label="Gender_Female <= 0.5\nsquared_error = 235.424\nsamples = 1195\nvalue = 13.697"] ;
+2 -> 12 ;
+13 [label="squared_error = 349.522\nsamples = 637\nvalue = 18.973"] ;
+12 -> 13 ;
+14 [label="squared_error = 37.125\nsamples = 558\nvalue = 7.674"] ;
+12 -> 14 ;
+}
