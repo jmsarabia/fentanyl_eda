@@ -1,0 +1,894 @@
+"Notes"	"Census Region"	"Census Region Code"	"Year"	"Year Code"	"Gender"	"Gender Code"	"Single Race 6"	"Single Race 6 Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	Deaths	Population	Crude Rate
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	16	145702	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	19	127167	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	11	121522	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	20	114070	17.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	30	120031	25.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	29	124176	23.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	26	122432	21.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	22	105058	20.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"15-19 years"	"15-19"	12	456622	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	86	468729	18.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	169	500840	33.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	183	502764	36.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	163	484881	33.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	116	453537	25.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	127	517437	24.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	144	572345	25.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"55-59 years"	"55-59"	108	617598	17.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"60-64 years "	"60-64"	71	579155	12.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"65-69 years"	"65-69"	23	488947	4.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"70-74 years"	"70-74"	10	395552	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	13	123960	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	34	143372	23.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	37	117116	31.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	47	105794	44.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	38	95862	39.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	62	98551	62.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	69	102446	67.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	73	99391	73.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	33	81561	40.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	20	58968	33.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	20	479557	4.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	191	484231	39.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	441	526523	83.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	546	519928	105.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	494	491913	100.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	357	454181	78.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	376	507417	74.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	314	554079	56.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	239	589946	40.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	132	541039	24.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"65-69 years"	"65-69"	74	439561	16.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"70-74 years"	"70-74"	11	339393	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	10	122171	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	19	144223	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	16	130530	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	18	120946	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	14	114499	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	28	117092	23.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	45	121383	37.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	35	122871	28.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	22	107599	20.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"15-19 years"	"15-19"	12	450900	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	76	459027	16.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	146	497327	29.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	198	505276	39.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	165	485772	34.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	106	454148	23.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	101	495269	20.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	133	552832	24.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"55-59 years"	"55-59"	104	609065	17.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"60-64 years "	"60-64"	74	583811	12.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"65-69 years"	"65-69"	28	496559	5.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"70-74 years"	"70-74"	11	412310	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	22	120508	18.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	44	142439	30.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	41	122489	33.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	37	106015	34.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	41	96715	42.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	52	96298	54.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	104	99725	104.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	79	99465	79.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	74	84568	87.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	34	60631	56.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"70-74 years"	"70-74"	10	42893	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	17	473692	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	155	473197	32.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	407	519764	78.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	509	523254	97.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	479	494553	96.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	412	455215	90.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	313	487232	64.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	346	535529	64.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	271	582072	46.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	163	545707	29.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"65-69 years"	"65-69"	70	447322	15.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"70-74 years"	"70-74"	22	354335	6.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	11	119920	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	23	140204	16.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	36	134760	26.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	22	120602	18.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	25	115363	21.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	29	113603	25.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	33	119990	27.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	30	122077	24.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	35	110117	31.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	79	453143	17.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	138	492205	28.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	173	507505	34.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	208	487903	42.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	139	457536	30.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	155	473602	32.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	132	539400	24.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"55-59 years"	"55-59"	137	597090	22.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"60-64 years "	"60-64"	60	586538	10.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"65-69 years"	"65-69"	33	506859	6.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"70-74 years"	"70-74"	12	429082	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"Asian"	"A"	"30-34 years"	"30-34"	11	68024	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	25	118487	21.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	64	140158	45.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	75	128532	58.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	66	107321	61.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	63	98792	63.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	72	94094	76.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	125	97924	127.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	122	99220	123.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	95	87212	108.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	47	62469	75.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"70-74 years"	"70-74"	17	45115	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	26	464629	5.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	182	465831	39.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	395	510941	77.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	525	526016	99.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	610	496292	122.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	444	459760	96.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	386	467171	82.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	387	524087	73.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	331	570502	58.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	198	549208	36.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"65-69 years"	"65-69"	86	456858	18.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"70-74 years"	"70-74"	18	369340	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	29	137368	21.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	43	141647	30.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	41	126378	32.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	27	121288	22.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	26	114573	22.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	48	123772	38.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	61	126527	48.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	34	115643	29.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	18	91060	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"15-19 years"	"15-19"	20	463678	4.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	59	458868	12.9
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	125	491899	25.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	191	521498	36.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	175	511070	34.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	150	482229	31.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	138	468736	29.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	157	549191	28.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"55-59 years"	"55-59"	172	602105	28.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"60-64 years "	"60-64"	128	605099	21.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"65-69 years"	"65-69"	37	528566	7.0
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"Asian"	"A"	"30-34 years"	"30-34"	13	69635	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"Asian"	"A"	"50-54 years"	"50-54"	10	55919	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	35	120268	29.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	64	134966	47.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	70	136719	51.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	103	115158	89.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	82	106418	77.1
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	94	97505	96.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	120	103252	116.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	187	105362	177.5
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	142	94299	150.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	55	68577	80.2
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"70-74 years"	"70-74"	14	49461	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	31	486797	6.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	167	471735	35.4
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	350	502761	69.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	520	537437	96.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	573	527522	108.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	551	493540	111.6
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	382	473434	80.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	429	548241	78.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	396	588773	67.3
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	261	582987	44.8
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"65-69 years"	"65-69"	116	488641	23.7
+	"Census Region 1: Northeast"	"CENS-R1"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"70-74 years"	"70-74"	33	397537	8.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	11	139041	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	32	157278	20.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	24	128838	18.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	20	124618	16.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	27	110666	24.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	28	117702	23.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	46	113916	40.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	38	120999	31.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	27	109793	24.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	12	85786	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"15-19 years"	"15-19"	20	556323	3.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	72	610473	11.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	156	625402	24.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	139	611355	22.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	158	596839	26.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	119	531065	22.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	89	557010	16.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	80	578695	13.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"55-59 years"	"55-59"	107	636986	16.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"60-64 years "	"60-64"	41	600906	6.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"65-69 years"	"65-69"	19	507271	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"70-74 years"	"70-74"	10	387500	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	13	135942	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	51	147298	34.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	58	112456	51.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	59	104578	56.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	66	91962	71.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	99	98144	100.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	95	96542	98.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	118	101191	116.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	99	87044	113.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	62	62828	98.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"70-74 years"	"70-74"	19	41814	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	30	574733	5.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	154	619993	24.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	333	647771	51.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	342	631789	54.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	308	615454	50.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	260	544195	47.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	218	562994	38.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	190	578370	32.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	149	616551	24.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	112	568396	19.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"65-69 years"	"65-69"	41	463742	8.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	18	158115	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	19	133383	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	28	124200	22.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	24	111901	21.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	37	116621	31.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	59	111216	53.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	59	118776	49.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	36	111874	32.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	16	88449	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	64	606282	10.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	127	623763	20.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	140	608239	23.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	156	598646	26.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	121	538028	22.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	111	543194	20.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	91	563139	16.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"55-59 years"	"55-59"	98	627765	15.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"60-64 years "	"60-64"	68	606504	11.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"65-69 years"	"65-69"	19	518507	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	21	131878	15.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	57	149093	38.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	50	117991	42.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	67	104117	64.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	67	94027	71.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	120	95974	125.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	157	94002	167.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	142	99843	142.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	105	88906	118.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	80	64904	123.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"70-74 years"	"70-74"	22	43885	50.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	16	573856	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	128	613997	20.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	308	645756	47.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	336	631202	53.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	327	616706	53.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	290	551387	52.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	249	549032	45.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	202	563517	35.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	183	609197	30.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	143	574299	24.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"65-69 years"	"65-69"	55	474097	11.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"70-74 years"	"70-74"	12	357070	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	25	133097	18.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	42	154428	27.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	36	138920	25.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	38	123656	30.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	32	114710	27.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	62	113394	54.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	51	110603	46.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	67	115634	57.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	41	113147	36.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	23	90854	25.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"15-19 years"	"15-19"	21	550979	3.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	86	605235	14.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	122	618465	19.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	188	606476	31.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	188	598785	31.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	159	548074	29.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	112	528249	21.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	104	555699	18.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"55-59 years"	"55-59"	121	612240	19.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"60-64 years "	"60-64"	67	610152	11.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"65-69 years"	"65-69"	27	531180	5.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"70-74 years"	"70-74"	11	430653	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"15-19 years"	"15-19"	12	127406	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	57	129698	43.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	83	146833	56.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	97	123854	78.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	107	104039	102.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	109	96746	112.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	172	93122	184.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	188	93229	201.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	209	97218	215.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	161	90551	177.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	113	66797	169.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"70-74 years"	"70-74"	28	46588	60.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	44	569688	7.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	211	611623	34.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	413	639972	64.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	434	630778	68.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	435	615502	70.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	349	563822	61.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	305	535019	57.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	248	556112	44.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	219	596340	36.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	134	577209	23.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"65-69 years"	"65-69"	50	484295	10.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"70-74 years"	"70-74"	11	377836	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"More than one race"	"M"	"20-24 years"	"20-24"	10	29366	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2020"	"2020"	"Male"	"M"	"More than one race"	"M"	"25-29 years"	"25-29"	11	24982	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	19	132369	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	46	147061	31.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	47	144791	32.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	72	125333	57.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	51	119166	42.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	55	110230	49.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	71	112798	62.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	94	114025	82.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	56	113712	49.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	22	93574	23.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"15-19 years"	"15-19"	22	565900	3.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	91	604954	15.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	128	602467	21.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	166	608013	27.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	175	605041	28.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	178	567803	31.3
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	124	518166	23.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	130	559488	23.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"55-59 years"	"55-59"	108	597958	18.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"60-64 years "	"60-64"	78	613788	12.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"65-69 years"	"65-69"	38	539824	7.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"70-74 years"	"70-74"	10	451023	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"15-19 years"	"15-19"	15	131463	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	59	127999	46.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	96	139080	69.0
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	113	129041	87.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	112	107588	104.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	117	101369	115.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	157	92279	170.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	237	97250	243.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	263	97550	269.6
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	215	94094	228.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	129	70424	183.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"70-74 years"	"70-74"	48	49737	96.5
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	57	587677	9.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	208	609219	34.1
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	365	616289	59.2
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	457	627640	72.8
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	456	629570	72.4
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	408	593748	68.7
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	315	535230	58.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	293	575791	50.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	251	598743	41.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	172	595545	28.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"65-69 years"	"65-69"	65	504837	12.9
+	"Census Region 2: Midwest"	"CENS-R2"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"70-74 years"	"70-74"	10	401998	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	14	360439	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	29	412728	7.0
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	27	367068	7.4
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	41	356890	11.5
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	33	319587	10.3
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	28	321312	8.7
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	50	312613	16.0
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	50	311083	16.1
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	31	273286	11.3
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	10	214069	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"15-19 years"	"15-19"	12	892441	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	100	932290	10.7
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	197	1016481	19.4
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	241	986199	24.4
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	257	968247	26.5
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	188	892290	21.1
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	180	954128	18.9
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	197	963344	20.4
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"55-59 years"	"55-59"	216	1029172	21.0
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"60-64 years "	"60-64"	108	966557	11.2
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"65-69 years"	"65-69"	50	839524	6.0
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"70-74 years"	"70-74"	16	702092	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"75-79 years"	"75-79"	11	504609	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	28	347118	8.1
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	61	381162	16.0
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	89	316246	28.1
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	93	300098	31.0
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	91	263092	34.6
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	102	265879	38.4
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	138	262160	52.6
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	146	257759	56.6
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	81	217288	37.3
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	53	159246	33.3
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"70-74 years"	"70-74"	17	103938	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	32	924235	3.5
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	253	966444	26.2
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	529	1052728	50.3
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	589	1026188	57.4
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	547	996106	54.9
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	436	905115	48.2
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	373	955952	39.0
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	366	952516	38.4
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	304	993772	30.6
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	219	895000	24.5
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"65-69 years"	"65-69"	70	746207	9.4
+	"Census Region 3: South"	"CENS-R3"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"70-74 years"	"70-74"	16	609841	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	21	355684	5.9
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	38	413066	9.2
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	48	377445	12.7
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	39	359830	10.8
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	42	327239	12.8
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	43	323361	13.3
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	48	308037	15.6
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	64	313897	20.4
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	38	281385	13.5
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	14	223377	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"15-19 years"	"15-19"	21	896002	2.3
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	89	929639	9.6
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	200	1008195	19.8
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	278	994614	28.0
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	268	978784	27.4
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	188	901110	20.9
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	199	941149	21.1
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	211	944557	22.3
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"55-59 years"	"55-59"	211	1029519	20.5
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"60-64 years "	"60-64"	124	978511	12.7
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"65-69 years"	"65-69"	56	857253	6.5
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"70-74 years"	"70-74"	20	731715	2.7
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"75-79 years"	"75-79"	12	528212	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"Asian"	"A"	"25-29 years"	"25-29"	11	77599	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	39	341340	11.4
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	80	384858	20.8
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	97	328954	29.5
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	109	302761	36.0
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	97	269293	36.0
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	124	265501	46.7
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	133	258138	51.5
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	144	259497	55.5
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	126	224892	56.0
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	65	165208	39.3
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"70-74 years"	"70-74"	16	112043	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	35	926460	3.8
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	241	960690	25.1
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	525	1043471	50.3
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	645	1032944	62.4
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	662	1006010	65.8
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	499	916124	54.5
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	370	940481	39.3
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	369	936102	39.4
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	357	995211	35.9
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	207	910134	22.7
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"65-69 years"	"65-69"	82	760707	10.8
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"70-74 years"	"70-74"	21	635431	3.3
+	"Census Region 3: South"	"CENS-R3"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"75-79 years"	"75-79"	14	431182	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	32	356655	9.0
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	73	406890	17.9
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	96	392122	24.5
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	89	360399	24.7
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	57	337634	16.9
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	55	321514	17.1
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	59	308138	19.1
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	63	314739	20.0
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	57	289248	19.7
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	14	232043	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"15-19 years"	"15-19"	29	897274	3.2
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	141	938788	15.0
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	254	993578	25.6
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	359	1008321	35.6
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	361	985420	36.6
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	279	920022	30.3
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	271	922485	29.4
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	228	943017	24.2
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"55-59 years"	"55-59"	234	1018822	23.0
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"60-64 years "	"60-64"	172	990546	17.4
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"65-69 years"	"65-69"	69	879392	7.8
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"70-74 years"	"70-74"	20	761167	2.6
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"Asian"	"A"	"35-39 years"	"35-39"	11	79763	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"15-19 years"	"15-19"	19	339198	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	93	341506	27.2
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	148	381331	38.8
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	211	344525	61.2
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	182	304310	59.8
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	176	278730	63.1
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	173	263004	65.8
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	166	257369	64.5
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	206	258966	79.5
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	138	232062	59.5
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	76	171983	44.2
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"70-74 years"	"70-74"	35	120251	29.1
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	79	927740	8.5
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	339	965126	35.1
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	709	1031690	68.7
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	889	1043917	85.2
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	911	1011899	90.0
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	667	936523	71.2
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	539	919616	58.6
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	497	936924	53.0
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	513	985374	52.1
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	314	925585	33.9
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"65-69 years"	"65-69"	116	778917	14.9
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"70-74 years"	"70-74"	25	659795	3.8
+	"Census Region 3: South"	"CENS-R3"	"2020"	"2020"	"Male"	"M"	"More than one race"	"M"	"20-24 years"	"20-24"	17	49289	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	40	357918	11.2
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	95	390469	24.3
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	99	401988	24.6
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	110	364512	30.2
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	86	347629	24.7
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	86	315991	27.2
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	71	311514	22.8
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	103	313132	32.9
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	74	291669	25.4
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	24	237734	10.1
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"70-74 years"	"70-74"	10	178308	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"15-19 years"	"15-19"	41	920135	4.5
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	144	939476	15.3
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	292	961717	30.4
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	377	1009577	37.3
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	406	992910	40.9
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	362	943745	38.4
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	237	898329	26.4
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	306	952573	32.1
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"55-59 years"	"55-59"	290	996981	29.1
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"60-64 years "	"60-64"	204	994908	20.5
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"65-69 years"	"65-69"	84	890174	9.4
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"70-74 years"	"70-74"	32	779538	4.1
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"75-79 years"	"75-79"	17	538166	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"Asian"	"A"	"25-29 years"	"25-29"	11	73266	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"Asian"	"A"	"40-44 years"	"40-44"	13	73160	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"15-19 years"	"15-19"	18	348338	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	85	340382	25.0
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	179	360395	49.7
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	295	353035	83.6
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	243	311614	78.0
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	247	291774	84.7
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	221	261752	84.4
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	251	265306	94.6
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	251	263667	95.2
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	188	240127	78.3
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	126	181558	69.4
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"70-74 years"	"70-74"	39	128503	30.3
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"75-79 years"	"75-79"	11	69546	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	97	954246	10.2
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	346	959560	36.1
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	713	986277	72.3
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	955	1035551	92.2
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	923	1033703	89.3
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	774	976563	79.3
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	654	913655	71.6
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	554	971649	57.0
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	518	989553	52.3
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	380	957294	39.7
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"65-69 years"	"65-69"	157	808956	19.4
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"70-74 years"	"70-74"	37	684874	5.4
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"More than one race"	"M"	"25-29 years"	"25-29"	18	43329	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"More than one race"	"M"	"30-34 years"	"30-34"	14	33751	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"2021 "	"2021"	"Male"	"M"	"More than one race"	"M"	"35-39 years"	"35-39"	14	27875	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Female"	"F"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	10	61456	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"15-19 years"	"15-19"	19	798715	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	60	863149	7.0
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	96	959461	10.0
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	92	891138	10.3
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	72	869371	8.3
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	71	795798	8.9
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	87	820306	10.6
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	106	809495	13.1
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"55-59 years"	"55-59"	125	861618	14.5
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"60-64 years "	"60-64"	90	820809	11.0
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"65-69 years"	"65-69"	55	712008	7.7
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"70-74 years"	"70-74"	23	568168	4.0
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Female"	"F"	"White"	"2106-3"	"75-79 years"	"75-79"	13	391358	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"35-39 years"	"35-39"	13	26548	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	10	80912	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	19	96643	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	12	80667	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	10	70495	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	10	60806	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	17	49544	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	15	34628	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	59	838411	7.0
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	181	934232	19.4
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	294	1026517	28.6
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	261	957263	27.3
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	222	917095	24.2
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	183	819475	22.3
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	177	839204	21.1
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	171	815558	21.0
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	171	837923	20.4
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	139	763742	18.2
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"65-69 years"	"65-69"	65	642734	10.1
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"70-74 years"	"70-74"	23	502681	4.6
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"More than one race"	"M"	"20-24 years"	"20-24"	17	69197	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"More than one race"	"M"	"25-29 years"	"25-29"	14	63162	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2018"	"2018"	"Male"	"M"	"More than one race"	"M"	"35-39 years"	"35-39"	11	42537	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"55-59 years"	"55-59"	11	20424	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	11	76439	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	13	66946	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	10	59472	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	10	58840	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"15-19 years"	"15-19"	14	795011	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	69	853723	8.1
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	86	956219	9.0
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	101	901734	11.2
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	94	875704	10.7
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	84	801674	10.5
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	89	805528	11.0
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	100	797449	12.5
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"55-59 years"	"55-59"	110	856875	12.8
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"60-64 years "	"60-64"	92	824152	11.2
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"65-69 years"	"65-69"	36	728164	4.9
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"70-74 years"	"70-74"	35	595598	5.9
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"75-79 years"	"75-79"	19	412121	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"25-29 years"	"25-29"	11	33398	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"Asian"	"A"	"20-24 years"	"20-24"	11	109358	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"Asian"	"A"	"25-29 years"	"25-29"	10	135335	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	14	78913	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	15	97230	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	30	85344	35.2
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	24	72452	33.1
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	15	61474	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	17	59450	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	16	60715	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	12	51399	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	77	833567	9.2
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	257	918725	28.0
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	312	1022396	30.5
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	316	967951	32.6
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	294	924235	31.8
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	237	827715	28.6
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	175	823235	21.3
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	181	806815	22.4
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	208	835284	24.9
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	136	770133	17.7
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"65-69 years"	"65-69"	74	656015	11.3
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"70-74 years"	"70-74"	27	527206	5.1
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"More than one race"	"M"	"20-24 years"	"20-24"	17	70210	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"More than one race"	"M"	"25-29 years"	"25-29"	15	65401	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"More than one race"	"M"	"30-34 years"	"30-34"	13	50714	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2019"	"2019"	"Male"	"M"	"More than one race"	"M"	"35-39 years"	"35-39"	10	43398	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"30-34 years"	"30-34"	17	29846	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	14	68600	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	11	82969	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	16	79860	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	14	67879	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	13	61071	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	16	59768	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	14	61934	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"15-19 years"	"15-19"	48	789458	6.1
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	109	848291	12.8
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	134	941653	14.2
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	167	920461	18.1
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	160	877097	18.2
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	126	813535	15.5
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	120	788446	15.2
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	131	798609	16.4
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"55-59 years"	"55-59"	114	841700	13.5
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"60-64 years "	"60-64"	115	828132	13.9
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"65-69 years"	"65-69"	68	743156	9.2
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"White"	"2106-3"	"70-74 years"	"70-74"	12	621351	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"More than one race"	"M"	"25-29 years"	"25-29"	14	64080	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"More than one race"	"M"	"30-34 years"	"30-34"	15	53708	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Female"	"F"	"More than one race"	"M"	"35-39 years"	"35-39"	10	46328	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"20-24 years"	"20-24"	11	30473	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"25-29 years"	"25-29"	31	32720	94.7
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"30-34 years"	"30-34"	18	31258	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"35-39 years"	"35-39"	20	27336	73.2
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"40-44 years"	"40-44"	11	24124	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"45-49 years"	"45-49"	11	21754	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"Asian"	"A"	"20-24 years"	"20-24"	14	106495	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"Asian"	"A"	"25-29 years"	"25-29"	17	130610	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"15-19 years"	"15-19"	17	63903	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	39	77995	50.0
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	63	96642	65.2
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	44	90162	48.8
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	44	73667	59.7
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	21	63892	32.9
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	19	58845	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	18	59611	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	20	59917	33.4
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	22	53069	41.5
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	19	37348	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	154	828086	18.6
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	391	911753	42.9
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	478	1006706	47.5
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	534	985421	54.2
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	472	926253	51.0
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	338	844116	40.0
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	285	805610	35.4
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	253	810454	31.2
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	245	822749	29.8
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	186	778608	23.9
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"65-69 years"	"65-69"	96	666897	14.4
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"70-74 years"	"70-74"	32	548867	5.8
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"White"	"2106-3"	"75-79 years"	"75-79"	16	360537	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"More than one race"	"M"	"15-19 years"	"15-19"	11	72728	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"More than one race"	"M"	"20-24 years"	"20-24"	23	71274	32.3
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"More than one race"	"M"	"25-29 years"	"25-29"	31	67088	46.2
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"More than one race"	"M"	"30-34 years"	"30-34"	21	53665	39.1
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"More than one race"	"M"	"35-39 years"	"35-39"	27	44244	61.0
+	"Census Region 4: West"	"CENS-R4"	"2020"	"2020"	"Male"	"M"	"More than one race"	"M"	"40-44 years"	"40-44"	13	36841	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"25-29 years"	"25-29"	16	30637	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"30-34 years"	"30-34"	15	30481	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"35-39 years"	"35-39"	16	27139	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"40-44 years"	"40-44"	13	24674	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	28	78359	35.7
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	16	81619	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	18	68918	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	15	62309	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	14	56218	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	15	59249	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	24	60883	39.4
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"15-19 years"	"15-19"	52	803982	6.5
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	104	835068	12.5
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	146	905514	16.1
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	204	927548	22.0
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	170	880240	19.3
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"40-44 years"	"40-44"	147	830559	17.7
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	149	771441	19.3
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	172	803589	21.4
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"55-59 years"	"55-59"	160	819678	19.5
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"60-64 years "	"60-64"	121	824022	14.7
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"65-69 years"	"65-69"	65	746659	8.7
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"White"	"2106-3"	"70-74 years"	"70-74"	30	636357	4.7
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"More than one race"	"M"	"20-24 years"	"20-24"	15	68405	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"More than one race"	"M"	"25-29 years"	"25-29"	12	64079	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"More than one race"	"M"	"30-34 years"	"30-34"	13	56530	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"More than one race"	"M"	"35-39 years"	"35-39"	10	47481	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Female"	"F"	"More than one race"	"M"	"45-49 years"	"45-49"	11	32632	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"25-29 years"	"25-29"	21	31124	67.5
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"30-34 years"	"30-34"	34	31603	107.6
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"35-39 years"	"35-39"	23	28307	81.3
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"40-44 years"	"40-44"	18	25144	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"45-49 years"	"45-49"	18	22309	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"Asian"	"A"	"25-29 years"	"25-29"	10	122612	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"Asian"	"A"	"30-34 years"	"30-34"	14	139177	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"Asian"	"A"	"45-49 years"	"45-49"	10	114607	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"15-19 years"	"15-19"	12	65201	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	30	75691	39.6
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	59	90164	65.4
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	62	92913	66.7
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	62	76667	80.9
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	27	66746	40.5
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	27	58635	46.0
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"50-54 years"	"50-54"	45	60657	74.2
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"55-59 years"	"55-59"	48	60063	79.9
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"60-64 years "	"60-64"	40	54749	73.1
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"Black or African American"	"2054-5"	"65-69 years"	"65-69"	25	39657	63.0
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	132	846391	15.6
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	374	893720	41.8
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	614	952617	64.5
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	690	984647	70.1
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	579	945079	61.3
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	470	878364	53.5
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	324	803053	40.3
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	339	837798	40.5
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	307	823702	37.3
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	283	799823	35.4
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"65-69 years"	"65-69"	152	685801	22.2
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"70-74 years"	"70-74"	49	569785	8.6
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"White"	"2106-3"	"75-79 years"	"75-79"	14	360502	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"More than one race"	"M"	"15-19 years"	"15-19"	15	76360	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"More than one race"	"M"	"20-24 years"	"20-24"	20	71853	27.8
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"More than one race"	"M"	"25-29 years"	"25-29"	37	66808	55.4
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"More than one race"	"M"	"30-34 years"	"30-34"	29	56257	51.5
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"More than one race"	"M"	"35-39 years"	"35-39"	30	46115	65.1
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"More than one race"	"M"	"40-44 years"	"40-44"	19	39535	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"More than one race"	"M"	"45-49 years"	"45-49"	10	30928	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"2021 "	"2021"	"Male"	"M"	"More than one race"	"M"	"50-54 years"	"50-54"	13	27926	Unreliable
+"---"
+"Dataset: Multiple Cause of Death, 2018-2021, Single Race"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics);"
+"T40.6 (Other and unspecified narcotics)"
+"States: Baldwin County, AL (01003); Jefferson County, AL (01073); Lee County, AL (01081); Montgomery County, AL (01101);"
+"Tuscaloosa County, AL (01125); Anchorage Borough, AK (02020); Fairbanks North Star Borough, AK (02090); Haines Borough, AK"
+"(02100); Hoonah-Angoon Census Area, AK (02105); Juneau Borough, AK (02110); Sitka Borough, AK (02220); Skagway Municipality, AK"
+"(02230); Yakutat Borough, AK (02282); Coconino County, AZ (04005); Maricopa County, AZ (04013); Pima County, AZ (04019); Benton"
+"County, AR (05007); Faulkner County, AR (05045); Pulaski County, AR (05119); Washington County, AR (05143); El Dorado County, CA"
+"(06017); Humboldt County, CA (06023); Los Angeles County, CA (06037); Napa County, CA (06055); Nevada County, CA (06057); Placer"
+"County, CA (06061); Sacramento County, CA (06067); San Diego County, CA (06073); San Luis Obispo County, CA (06079); Santa"
+"Barbara County, CA (06083); Sonoma County, CA (06097); Ventura County, CA (06111); Chaffee County, CO (08015); Custer County, CO"
+"(08027); El Paso County, CO (08041); Garfield County, CO (08045); Gunnison County, CO (08051); Huerfano County, CO (08055); Park"
+"County, CO (08093); Saguache County, CO (08109); Teller County, CO (08119); Hartford County, CT (09003); Litchfield County, CT"
+"(09005); New Haven County, CT (09009); New London County, CT (09011); New Castle County, DE (10003); Brevard County, FL (12009);"
+"Broward County, FL (12011); Collier County, FL (12021); Duval County, FL (12031); Hillsborough County, FL (12057); Martin"
+"County, FL (12085); Monroe County, FL (12087); Okaloosa County, FL (12091); Orange County, FL (12095); Palm Beach County, FL"
+"(12099); Pinellas County, FL (12103); Sarasota County, FL (12115); Seminole County, FL (12117); Sumter County, FL (12119); Bryan"
+"County, GA (13029); Chatham County, GA (13051); Cherokee County, GA (13057); Columbia County, GA (13073); Coweta County, GA"
+"(13077); Gwinnett County, GA (13135); Harris County, GA (13145); Honolulu County, HI (15003); Ada County, ID (16001); Blaine"
+"County, ID (16013); Bonneville County, ID (16019); Fremont County, ID (16043); Madison County, ID (16065); Teton County, ID"
+"(16081); Cook County, IL (17031); DeKalb County, IL (17037); Jackson County, IL (17077); Kane County, IL (17089); Kendall"
+"County, IL (17093); McDonough County, IL (17109); McHenry County, IL (17111); Monroe County, IL (17133); Peoria County, IL"
+"(17143); Sangamon County, IL (17167); Will County, IL (17197); Woodford County, IL (17203); Bartholomew County, IN (18005);"
+"Hancock County, IN (18059); Hendricks County, IN (18063); Johnson County, IN (18081); Marion County, IN (18097); Tippecanoe"
+"County, IN (18157); Warrick County, IN (18173); Bremer County, IA (19017); Dickinson County, IA (19059); Dubuque County, IA"
+"(19061); Jefferson County, IA (19101); Linn County, IA (19113); Polk County, IA (19153); Scott County, IA (19163); Warren"
+"County, IA (19181); Winneshiek County, IA (19191); Ellis County, KS (20051); Harvey County, KS (20079); Leavenworth County, KS"
+"(20103); Pottawatomie County, KS (20149); Sedgwick County, KS (20173); Shawnee County, KS (20177); Wabaunsee County, KS (20197);"
+"Boone County, KY (21015); Campbell County, KY (21037); Jefferson County, KY (21111); Kenton County, KY (21117); Madison County,"
+"KY (21151); Warren County, KY (21227); Woodford County, KY (21239); East Baton Rouge Parish, LA (22033); Lafayette Parish, LA"
+"(22055); Lincoln Parish, LA (22061); Orleans Parish, LA (22071); St. Tammany Parish, LA (22103); Hancock County, ME (23009);"
+"Knox County, ME (23013); Lincoln County, ME (23015); Sagadahoc County, ME (23023); Waldo County, ME (23027); York County, ME"
+"(23031); Baltimore County, MD (24005); Calvert County, MD (24009); Carroll County, MD (24013); Harford County, MD (24025); Kent"
+"County, MD (24029); Queen Anne's County, MD (24035); St. Mary's County, MD (24037); Baltimore city, MD (24510); Berkshire"
+"County, MA (25003); Essex County, MA (25009); Franklin County, MA (25011); Plymouth County, MA (25023); Worcester County, MA"
+"(25027); Baraga County, MI (26013); Benzie County, MI (26019); Charlevoix County, MI (26029); Clinton County, MI (26037); Emmet"
+"County, MI (26047); Grand Traverse County, MI (26055); Houghton County, MI (26061); Ingham County, MI (26065); Kalamazoo County,"
+"MI (26077); Kent County, MI (26081); Keweenaw County, MI (26083); Livingston County, MI (26093); Marquette County, MI (26103);"
+"Midland County, MI (26111); Ottawa County, MI (26139); Anoka County, MN (27003); Blue Earth County, MN (27013); Clay County, MN"
+"(27027); Cook County, MN (27031); Lake County, MN (27075); Nicollet County, MN (27103); Scott County, MN (27139); Winona County,"
+"MN (27169); Lamar County, MS (28073); Adair County, MO (29001); Cape Girardeau County, MO (29031); Clay County, MO (29047); Cole"
+"County, MO (29051); Greene County, MO (29077); Jackson County, MO (29095); St. Charles County, MO (29183); St. Louis city, MO"
+"(29510); Beaverhead County, MT (30001); Broadwater County, MT (30007); Flathead County, MT (30029); Jefferson County, MT"
+"(30043); Madison County, MT (30057); Park County, MT (30067); Yellowstone County, MT (30111); Buffalo County, NE (31019); Dawes"
+"County, NE (31045); Douglas County, NE (31055); Lancaster County, NE (31109); Sarpy County, NE (31153); Sheridan County, NE"
+"(31161); Sioux County, NE (31165); Washoe County, NV (32031); Belknap County, NH (33001); Carroll County, NH (33003); Cheshire"
+"County, NH (33005); Hillsborough County, NH (33011); Merrimack County, NH (33013); Strafford County, NH (33017); Burlington"
+"County, NJ (34005); Camden County, NJ (34007); Cape May County, NJ (34009); Essex County, NJ (34013); Gloucester County, NJ"
+"(34015); Sussex County, NJ (34037); Union County, NJ (34039); Warren County, NJ (34041); Bernalillo County, NM (35001); Sandoval"
+"County, NM (35043); Columbia County, NY (36021); Dutchess County, NY (36027); Erie County, NY (36029); Kings County, NY (36047);"
+"Monroe County, NY (36055); Onondaga County, NY (36067); Ontario County, NY (36069); Orange County, NY (36071); Otsego County, NY"
+"(36077); Putnam County, NY (36079); Queens County, NY (36081); Rensselaer County, NY (36083); Richmond County, NY (36085);"
+"Schenectady County, NY (36093); Suffolk County, NY (36103); Ulster County, NY (36111); Warren County, NY (36113); Cabarrus"
+"County, NC (37025); Dare County, NC (37055); Forsyth County, NC (37067); Guilford County, NC (37081); Henderson County, NC"
+"(37089); Jackson County, NC (37099); Moore County, NC (37125); Pitt County, NC (37147); Transylvania County, NC (37175); Union"
+"County, NC (37179); Burleigh County, ND (38015); Grand Forks County, ND (38035); Athens County, OH (39009); Butler County, OH"
+"(39017); Cuyahoga County, OH (39035); Geauga County, OH (39055); Greene County, OH (39057); Hamilton County, OH (39061); Medina"
+"County, OH (39103); Summit County, OH (39153); Union County, OH (39159); Wood County, OH (39173); Cleveland County, OK (40027);"
+"Oklahoma County, OK (40109); Payne County, OK (40119); Tulsa County, OK (40143); Clackamas County, OR (41005); Deschutes County,"
+"OR (41017); Hood River County, OR (41027); Lane County, OR (41039); Polk County, OR (41053); Butler County, PA (42019);"
+"Cumberland County, PA (42041); Dauphin County, PA (42043); Delaware County, PA (42045); Montour County, PA (42093); Northampton"
+"County, PA (42095); Washington County, PA (42125); Kent County, RI (44003); Greenville County, SC (45045); Lexington County, SC"
+"(45063); Richland County, SC (45079); York County, SC (45091); Hughes County, SD (46065); Lawrence County, SD (46081); Lincoln"
+"County, SD (46083); Minnehaha County, SD (46099); Pennington County, SD (46103); Union County, SD (46127); Hamilton County, TN"
+"(47065); Knox County, TN (47093); Rutherford County, TN (47149); Shelby County, TN (47157); Washington County, TN (47179);"
+"Wilson County, TN (47189); Blanco County, TX (48031); Brazoria County, TX (48039); Comal County, TX (48091); Dallas County, TX"
+"(48113); Erath County, TX (48143); Galveston County, TX (48167); Gillespie County, TX (48171); Harris County, TX (48201); Hays"
+"County, TX (48209); Lubbock County, TX (48303); Montgomery County, TX (48339); Randall County, TX (48381); Tarrant County, TX"
+"(48439); Cache County, UT (49005); Davis County, UT (49011); Salt Lake County, UT (49035); Addison County, VT (50001);"
+"Bennington County, VT (50003); Lamoille County, VT (50015); Rutland County, VT (50021); Windham County, VT (50025); Windsor"
+"County, VT (50027); Clarke County, VA (51043); Fauquier County, VA (51061); Fluvanna County, VA (51065); Hanover County, VA"
+"(51085); King George County, VA (51099); Lancaster County, VA (51103); Nelson County, VA (51125); Prince William County, VA"
+"(51153); Roanoke County, VA (51161); Spotsylvania County, VA (51177); Stafford County, VA (51179); York County, VA (51199);"
+"Chesapeake city, VA (51550); Fredericksburg city, VA (51630); Lynchburg city, VA (51680); Manassas city, VA (51683); Manassas"
+"Park city, VA (51685); Newport News city, VA (51700); Poquoson city, VA (51735); Radford city, VA (51750); Richmond city, VA"
+"(51760); Virginia Beach city, VA (51810); Winchester city, VA (51840); Benton County, WA (53005); Clark County, WA (53011);"
+"Island County, WA (53029); Kitsap County, WA (53035); Kittitas County, WA (53037); San Juan County, WA (53055); Snohomish"
+"County, WA (53061); Spokane County, WA (53063); Thurston County, WA (53067); Whatcom County, WA (53073); Jefferson County, WV"
+"(54037); Ohio County, WV (54069); Bayfield County, WI (55007); Brown County, WI (55009); Door County, WI (55029); Eau Claire"
+"County, WI (55035); La Crosse County, WI (55063); Milwaukee County, WI (55079); Portage County, WI (55097); St. Croix County, WI"
+"(55109); Washington County, WI (55131); Park County, WY (56029); Sheridan County, WY (56033)"
+"Group By: Census Region; Year; Gender; Single Race 6; Five-Year Age Groups"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: Nov 14, 2023 8:20:38 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2021 on CDC WONDER Online Database, released in 2023. Data are from the Multiple Cause of Death Files,"
+"2018-2021, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on Nov 14, 2023 8:20:38 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Ages 85-100."
+"2. These items in the results table are not fully selected: Census Region 1: Northeast, Census Region 2: Midwest, Census Region"
+"3: South, Census Region 4: West. The Query Description lists the actual values selected."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Assurance of Confidentiality."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Unreliable."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Not Stated."
+"6. The population figures for year 2021 are single-race estimates of the July 1 resident population, based on the Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal"
+"series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on"
+"July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the"
+"Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
+"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Population Data."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age"
+"Group."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#ICD-10 Changes."
