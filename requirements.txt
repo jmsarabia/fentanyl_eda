@@ -5,3 +5,6 @@ seaborn
 lxml
 irsx
 plotly
+scikit-learn
+scipy
+statsmodels
