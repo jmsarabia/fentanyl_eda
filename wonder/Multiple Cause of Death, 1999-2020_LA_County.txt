@@ -1,0 +1,401 @@
+"Notes"	"Multiple Cause of death"	"Multiple Cause of death Code"	"Year"	"Year Code"	"Gender"	"Gender Code"	"Race"	"Race Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	Deaths	Population	Crude Rate
+	"Heroin"	"T40.1"	"1999"	"1999"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	25	324047	7.7
+	"Heroin"	"T40.1"	"1999"	"1999"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	45	307330	14.6
+	"Heroin"	"T40.1"	"1999"	"1999"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	37	267468	13.8
+	"Heroin"	"T40.1"	"1999"	"1999"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	31	221053	14.0
+	"Heroin"	"T40.1"	"1999"	"1999"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	15	180161	Unreliable
+	"Heroin"	"T40.1"	"1999"	"1999"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	17	133738	Unreliable
+	"Heroin"	"T40.1"	"2000"	"2000"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	18	319826	Unreliable
+	"Heroin"	"T40.1"	"2000"	"2000"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	26	306094	8.5
+	"Heroin"	"T40.1"	"2000"	"2000"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	23	271392	8.5
+	"Heroin"	"T40.1"	"2000"	"2000"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	21	226901	9.3
+	"Heroin"	"T40.1"	"2000"	"2000"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	12	185967	Unreliable
+	"Heroin"	"T40.1"	"2001"	"2001"	"Male"	"M"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	10	30712	Unreliable
+	"Heroin"	"T40.1"	"2001"	"2001"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	19	304992	Unreliable
+	"Heroin"	"T40.1"	"2001"	"2001"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	18	277771	Unreliable
+	"Heroin"	"T40.1"	"2001"	"2001"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	21	233740	9.0
+	"Heroin"	"T40.1"	"2001"	"2001"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	17	195424	Unreliable
+	"Heroin"	"T40.1"	"2002"	"2002"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	11	302457	Unreliable
+	"Heroin"	"T40.1"	"2002"	"2002"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	30	281536	10.7
+	"Heroin"	"T40.1"	"2002"	"2002"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	33	240428	13.7
+	"Heroin"	"T40.1"	"2002"	"2002"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	33	196969	16.8
+	"Heroin"	"T40.1"	"2003"	"2003"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	312096	Unreliable
+	"Heroin"	"T40.1"	"2003"	"2003"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	19	300312	Unreliable
+	"Heroin"	"T40.1"	"2003"	"2003"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	20	284380	7.0
+	"Heroin"	"T40.1"	"2003"	"2003"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	20	245557	8.1
+	"Heroin"	"T40.1"	"2003"	"2003"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	25	201263	12.4
+	"Heroin"	"T40.1"	"2004"	"2004"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	18	302381	Unreliable
+	"Heroin"	"T40.1"	"2004"	"2004"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	10	297568	Unreliable
+	"Heroin"	"T40.1"	"2004"	"2004"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	23	286507	8.0
+	"Heroin"	"T40.1"	"2004"	"2004"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	21	249101	8.4
+	"Heroin"	"T40.1"	"2004"	"2004"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	10	207187	Unreliable
+	"Heroin"	"T40.1"	"2005"	"2005"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	12	289599	Unreliable
+	"Heroin"	"T40.1"	"2005"	"2005"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	14	295965	Unreliable
+	"Heroin"	"T40.1"	"2005"	"2005"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	283595	Unreliable
+	"Heroin"	"T40.1"	"2005"	"2005"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	21	253276	8.3
+	"Heroin"	"T40.1"	"2005"	"2005"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	16	213050	Unreliable
+	"Heroin"	"T40.1"	"2006"	"2006"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	14	292347	Unreliable
+	"Heroin"	"T40.1"	"2006"	"2006"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	12	279150	Unreliable
+	"Heroin"	"T40.1"	"2006"	"2006"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	18	255336	Unreliable
+	"Heroin"	"T40.1"	"2006"	"2006"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	18	217066	Unreliable
+	"Heroin"	"T40.1"	"2006"	"2006"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	13	178126	Unreliable
+	"Heroin"	"T40.1"	"2007"	"2007"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	11	286555	Unreliable
+	"Heroin"	"T40.1"	"2007"	"2007"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	19	273042	Unreliable
+	"Heroin"	"T40.1"	"2007"	"2007"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	21	255940	8.2
+	"Heroin"	"T40.1"	"2007"	"2007"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	21	221329	9.5
+	"Heroin"	"T40.1"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	13	280887	Unreliable
+	"Heroin"	"T40.1"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	16	270440	Unreliable
+	"Heroin"	"T40.1"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	21	257051	8.2
+	"Heroin"	"T40.1"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	15	225904	Unreliable
+	"Heroin"	"T40.1"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	269645	Unreliable
+	"Heroin"	"T40.1"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	12	274523	Unreliable
+	"Heroin"	"T40.1"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	16	268198	Unreliable
+	"Heroin"	"T40.1"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	19	258924	Unreliable
+	"Heroin"	"T40.1"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	16	229816	Unreliable
+	"Heroin"	"T40.1"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	15	284858	Unreliable
+	"Heroin"	"T40.1"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	270726	Unreliable
+	"Heroin"	"T40.1"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	15	268899	Unreliable
+	"Heroin"	"T40.1"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	14	257382	Unreliable
+	"Heroin"	"T40.1"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	11	233785	Unreliable
+	"Heroin"	"T40.1"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	10	194344	Unreliable
+	"Heroin"	"T40.1"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	12	293256	Unreliable
+	"Heroin"	"T40.1"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	15	275359	Unreliable
+	"Heroin"	"T40.1"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	12	261239	Unreliable
+	"Heroin"	"T40.1"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	271694	Unreliable
+	"Heroin"	"T40.1"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	19	256014	Unreliable
+	"Heroin"	"T40.1"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	15	238167	Unreliable
+	"Heroin"	"T40.1"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	15	201115	Unreliable
+	"Heroin"	"T40.1"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	16	270561	Unreliable
+	"Heroin"	"T40.1"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	12	255034	Unreliable
+	"Heroin"	"T40.1"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	13	206796	Unreliable
+	"Heroin"	"T40.1"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	15	293986	Unreliable
+	"Heroin"	"T40.1"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	15	301538	Unreliable
+	"Heroin"	"T40.1"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	16	282554	Unreliable
+	"Heroin"	"T40.1"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	12	258752	Unreliable
+	"Heroin"	"T40.1"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	14	256074	Unreliable
+	"Heroin"	"T40.1"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	16	243365	Unreliable
+	"Heroin"	"T40.1"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	13	290889	Unreliable
+	"Heroin"	"T40.1"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	12	306052	Unreliable
+	"Heroin"	"T40.1"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	12	284461	Unreliable
+	"Heroin"	"T40.1"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	10	259443	Unreliable
+	"Heroin"	"T40.1"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	263516	Unreliable
+	"Heroin"	"T40.1"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	19	284711	Unreliable
+	"Heroin"	"T40.1"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	10	285101	Unreliable
+	"Heroin"	"T40.1"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	16	257790	Unreliable
+	"Heroin"	"T40.1"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	11	260656	Unreliable
+	"Heroin"	"T40.1"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	17	276571	Unreliable
+	"Heroin"	"T40.1"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	22	314567	7.0
+	"Heroin"	"T40.1"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	12	286041	Unreliable
+	"Heroin"	"T40.1"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	11	224376	Unreliable
+	"Heroin"	"T40.1"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	25	318604	7.8
+	"Heroin"	"T40.1"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	16	291921	Unreliable
+	"Heroin"	"T40.1"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	11	266624	Unreliable
+	"Heroin"	"T40.1"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	15	246687	Unreliable
+	"Heroin"	"T40.1"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	11	257823	Unreliable
+	"Heroin"	"T40.1"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	11	243937	Unreliable
+	"Heroin"	"T40.1"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	12	189386	Unreliable
+	"Heroin"	"T40.1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	10	260515	Unreliable
+	"Heroin"	"T40.1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	25	316043	7.9
+	"Heroin"	"T40.1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	17	293688	Unreliable
+	"Heroin"	"T40.1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	15	267501	Unreliable
+	"Heroin"	"T40.1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	243588	Unreliable
+	"Heroin"	"T40.1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	20	251584	7.9
+	"Heroin"	"T40.1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	11	240878	Unreliable
+	"Heroin"	"T40.1"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	15	225961	Unreliable
+	"Heroin"	"T40.1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	10	252380	Unreliable
+	"Heroin"	"T40.1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	19	310865	Unreliable
+	"Heroin"	"T40.1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	20	296541	6.7
+	"Heroin"	"T40.1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	26	267367	9.7
+	"Heroin"	"T40.1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	15	241097	Unreliable
+	"Heroin"	"T40.1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	16	244113	Unreliable
+	"Heroin"	"T40.1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	24	238062	10.1
+	"Heroin"	"T40.1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	18	226077	Unreliable
+	"Heroin"	"T40.1"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	17	193432	Unreliable
+	"Heroin"	"T40.1"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	26	300645	8.6
+	"Heroin"	"T40.1"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	40	300418	13.3
+	"Heroin"	"T40.1"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	29	264966	10.9
+	"Heroin"	"T40.1"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	17	240499	Unreliable
+	"Heroin"	"T40.1"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	19	235955	Unreliable
+	"Heroin"	"T40.1"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	23	237310	9.7
+	"Heroin"	"T40.1"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	24	223598	10.7
+	"Heroin"	"T40.1"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	19	195537	Unreliable
+	"Other opioids"	"T40.2"	"1999"	"1999"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	13	312946	Unreliable
+	"Other opioids"	"T40.2"	"1999"	"1999"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	31	324047	9.6
+	"Other opioids"	"T40.2"	"1999"	"1999"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	63	307330	20.5
+	"Other opioids"	"T40.2"	"1999"	"1999"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	46	267468	17.2
+	"Other opioids"	"T40.2"	"1999"	"1999"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	47	221053	21.3
+	"Other opioids"	"T40.2"	"1999"	"1999"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	21	180161	11.7
+	"Other opioids"	"T40.2"	"1999"	"1999"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	16	133738	Unreliable
+	"Other opioids"	"T40.2"	"2000"	"2000"	"Male"	"M"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	10	29762	Unreliable
+	"Other opioids"	"T40.2"	"2000"	"2000"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	26	319826	8.1
+	"Other opioids"	"T40.2"	"2000"	"2000"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	28	306094	9.1
+	"Other opioids"	"T40.2"	"2000"	"2000"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	38	271392	14.0
+	"Other opioids"	"T40.2"	"2000"	"2000"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	25	226901	11.0
+	"Other opioids"	"T40.2"	"2000"	"2000"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	17	185967	Unreliable
+	"Other opioids"	"T40.2"	"2000"	"2000"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	11	137679	Unreliable
+	"Other opioids"	"T40.2"	"2001"	"2001"	"Male"	"M"	"Black or African American"	"2054-5"	"45-49 years"	"45-49"	14	30712	Unreliable
+	"Other opioids"	"T40.2"	"2001"	"2001"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	21	304992	6.9
+	"Other opioids"	"T40.2"	"2001"	"2001"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	24	277771	8.6
+	"Other opioids"	"T40.2"	"2001"	"2001"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	30	233740	12.8
+	"Other opioids"	"T40.2"	"2001"	"2001"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	21	195424	10.7
+	"Other opioids"	"T40.2"	"2001"	"2001"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	10	143407	Unreliable
+	"Other opioids"	"T40.2"	"2002"	"2002"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	25	317806	7.9
+	"Other opioids"	"T40.2"	"2002"	"2002"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	15	302457	Unreliable
+	"Other opioids"	"T40.2"	"2002"	"2002"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	44	281536	15.6
+	"Other opioids"	"T40.2"	"2002"	"2002"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	36	240428	15.0
+	"Other opioids"	"T40.2"	"2002"	"2002"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	39	196969	19.8
+	"Other opioids"	"T40.2"	"2002"	"2002"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	13	153864	Unreliable
+	"Other opioids"	"T40.2"	"2003"	"2003"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	11	243806	Unreliable
+	"Other opioids"	"T40.2"	"2003"	"2003"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	12	312096	Unreliable
+	"Other opioids"	"T40.2"	"2003"	"2003"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	23	300312	7.7
+	"Other opioids"	"T40.2"	"2003"	"2003"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	27	284380	9.5
+	"Other opioids"	"T40.2"	"2003"	"2003"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	32	245557	13.0
+	"Other opioids"	"T40.2"	"2003"	"2003"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	31	201263	15.4
+	"Other opioids"	"T40.2"	"2004"	"2004"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	302381	Unreliable
+	"Other opioids"	"T40.2"	"2004"	"2004"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	13	297568	Unreliable
+	"Other opioids"	"T40.2"	"2004"	"2004"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	28	286507	9.8
+	"Other opioids"	"T40.2"	"2004"	"2004"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	23	249101	9.2
+	"Other opioids"	"T40.2"	"2004"	"2004"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	12	207187	Unreliable
+	"Other opioids"	"T40.2"	"2004"	"2004"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	10	165763	Unreliable
+	"Other opioids"	"T40.2"	"2005"	"2005"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	297115	Unreliable
+	"Other opioids"	"T40.2"	"2005"	"2005"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	12	289599	Unreliable
+	"Other opioids"	"T40.2"	"2005"	"2005"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	13	283595	Unreliable
+	"Other opioids"	"T40.2"	"2005"	"2005"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	25	253276	9.9
+	"Other opioids"	"T40.2"	"2005"	"2005"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	19	213050	Unreliable
+	"Other opioids"	"T40.2"	"2006"	"2006"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	16	292347	Unreliable
+	"Other opioids"	"T40.2"	"2006"	"2006"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	16	279150	Unreliable
+	"Other opioids"	"T40.2"	"2006"	"2006"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	20	255336	7.8
+	"Other opioids"	"T40.2"	"2006"	"2006"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	21	217066	9.7
+	"Other opioids"	"T40.2"	"2006"	"2006"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	12	178126	Unreliable
+	"Other opioids"	"T40.2"	"2007"	"2007"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	11	286555	Unreliable
+	"Other opioids"	"T40.2"	"2007"	"2007"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	14	273042	Unreliable
+	"Other opioids"	"T40.2"	"2007"	"2007"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	23	255940	9.0
+	"Other opioids"	"T40.2"	"2007"	"2007"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	23	221329	10.4
+	"Other opioids"	"T40.2"	"2007"	"2007"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	13	178321	Unreliable
+	"Other opioids"	"T40.2"	"2008"	"2008"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	10	247881	Unreliable
+	"Other opioids"	"T40.2"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	293406	Unreliable
+	"Other opioids"	"T40.2"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	14	280887	Unreliable
+	"Other opioids"	"T40.2"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	15	270440	Unreliable
+	"Other opioids"	"T40.2"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	24	257051	9.3
+	"Other opioids"	"T40.2"	"2008"	"2008"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	10	140667	Unreliable
+	"Other opioids"	"T40.2"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	14	250167	Unreliable
+	"Other opioids"	"T40.2"	"2009"	"2009"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	10	230626	Unreliable
+	"Other opioids"	"T40.2"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	12	269645	Unreliable
+	"Other opioids"	"T40.2"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	11	274523	Unreliable
+	"Other opioids"	"T40.2"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	20	268198	7.5
+	"Other opioids"	"T40.2"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	20	258924	7.7
+	"Other opioids"	"T40.2"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	25	229816	10.9
+	"Other opioids"	"T40.2"	"2009"	"2009"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	11	146919	Unreliable
+	"Other opioids"	"T40.2"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	284858	Unreliable
+	"Other opioids"	"T40.2"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	11	288990	Unreliable
+	"Other opioids"	"T40.2"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	270726	Unreliable
+	"Other opioids"	"T40.2"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	15	268899	Unreliable
+	"Other opioids"	"T40.2"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	20	257382	7.8
+	"Other opioids"	"T40.2"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	15	233785	Unreliable
+	"Other opioids"	"T40.2"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	19	194344	Unreliable
+	"Other opioids"	"T40.2"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	17	293256	Unreliable
+	"Other opioids"	"T40.2"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	17	275359	Unreliable
+	"Other opioids"	"T40.2"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	271694	Unreliable
+	"Other opioids"	"T40.2"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	19	256014	Unreliable
+	"Other opioids"	"T40.2"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	15	238167	Unreliable
+	"Other opioids"	"T40.2"	"2011"	"2011"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	14	201115	Unreliable
+	"Other opioids"	"T40.2"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	11	258790	Unreliable
+	"Other opioids"	"T40.2"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	270561	Unreliable
+	"Other opioids"	"T40.2"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	11	255034	Unreliable
+	"Other opioids"	"T40.2"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	11	240363	Unreliable
+	"Other opioids"	"T40.2"	"2012"	"2012"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	14	206796	Unreliable
+	"Other opioids"	"T40.2"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	293986	Unreliable
+	"Other opioids"	"T40.2"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	15	301538	Unreliable
+	"Other opioids"	"T40.2"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	18	282554	Unreliable
+	"Other opioids"	"T40.2"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	13	258752	Unreliable
+	"Other opioids"	"T40.2"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	12	266829	Unreliable
+	"Other opioids"	"T40.2"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	17	256074	Unreliable
+	"Other opioids"	"T40.2"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	14	243365	Unreliable
+	"Other opioids"	"T40.2"	"2013"	"2013"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	16	212307	Unreliable
+	"Other opioids"	"T40.2"	"2014"	"2014"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	11	243121	Unreliable
+	"Other opioids"	"T40.2"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	284461	Unreliable
+	"Other opioids"	"T40.2"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	11	259443	Unreliable
+	"Other opioids"	"T40.2"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	15	258053	Unreliable
+	"Other opioids"	"T40.2"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	12	247830	Unreliable
+	"Other opioids"	"T40.2"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	17	218041	Unreliable
+	"Other opioids"	"T40.2"	"2014"	"2014"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	11	173637	Unreliable
+	"Other opioids"	"T40.2"	"2015"	"2015"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	10	242504	Unreliable
+	"Other opioids"	"T40.2"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	10	284711	Unreliable
+	"Other opioids"	"T40.2"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	12	311526	Unreliable
+	"Other opioids"	"T40.2"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	11	262404	Unreliable
+	"Other opioids"	"T40.2"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	19	257790	Unreliable
+	"Other opioids"	"T40.2"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	13	247958	Unreliable
+	"Other opioids"	"T40.2"	"2015"	"2015"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	16	180794	Unreliable
+	"Other opioids"	"T40.2"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	15	276571	Unreliable
+	"Other opioids"	"T40.2"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	18	314567	Unreliable
+	"Other opioids"	"T40.2"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	14	286041	Unreliable
+	"Other opioids"	"T40.2"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	12	263195	Unreliable
+	"Other opioids"	"T40.2"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	12	249219	Unreliable
+	"Other opioids"	"T40.2"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	12	259829	Unreliable
+	"Other opioids"	"T40.2"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	16	245395	Unreliable
+	"Other opioids"	"T40.2"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	12	224376	Unreliable
+	"Other opioids"	"T40.2"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	12	184511	Unreliable
+	"Other opioids"	"T40.2"	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	10	236714	Unreliable
+	"Other opioids"	"T40.2"	"2017"	"2017"	"Female"	"F"	"White"	"2106-3"	"55-59 years"	"55-59"	11	226491	Unreliable
+	"Other opioids"	"T40.2"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	19	318604	Unreliable
+	"Other opioids"	"T40.2"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	16	291921	Unreliable
+	"Other opioids"	"T40.2"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	12	266624	Unreliable
+	"Other opioids"	"T40.2"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	11	246687	Unreliable
+	"Other opioids"	"T40.2"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	13	243937	Unreliable
+	"Other opioids"	"T40.2"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	10	189386	Unreliable
+	"Other opioids"	"T40.2"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	10	260515	Unreliable
+	"Other opioids"	"T40.2"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	17	316043	Unreliable
+	"Other opioids"	"T40.2"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	293688	Unreliable
+	"Other opioids"	"T40.2"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	11	251584	Unreliable
+	"Other opioids"	"T40.2"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	13	240878	Unreliable
+	"Other opioids"	"T40.2"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	15	225961	Unreliable
+	"Other opioids"	"T40.2"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	14	191818	Unreliable
+	"Other opioids"	"T40.2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	14	252380	Unreliable
+	"Other opioids"	"T40.2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	14	310865	Unreliable
+	"Other opioids"	"T40.2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	15	296541	Unreliable
+	"Other opioids"	"T40.2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	12	267367	Unreliable
+	"Other opioids"	"T40.2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	14	241097	Unreliable
+	"Other opioids"	"T40.2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	10	244113	Unreliable
+	"Other opioids"	"T40.2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	10	226077	Unreliable
+	"Other opioids"	"T40.2"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	11	193432	Unreliable
+	"Other opioids"	"T40.2"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	13	300645	Unreliable
+	"Other opioids"	"T40.2"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	12	300418	Unreliable
+	"Other opioids"	"T40.2"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	10	240499	Unreliable
+	"Other opioids"	"T40.2"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	10	235955	Unreliable
+	"Other opioids"	"T40.2"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	10	223598	Unreliable
+	"Other opioids"	"T40.2"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	10	195537	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	12	276571	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2016"	"2016"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	11	286041	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	10	269316	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	26	318604	8.2
+	"Other synthetic narcotics"	"T40.4"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	15	291921	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2017"	"2017"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	13	266624	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	11	260515	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	40	316043	12.7
+	"Other synthetic narcotics"	"T40.4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	32	293688	10.9
+	"Other synthetic narcotics"	"T40.4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	22	267501	8.2
+	"Other synthetic narcotics"	"T40.4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	18	243588	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	11	251584	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2018"	"2018"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	10	240878	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	11	249200	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	11	297858	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2019"	"2019"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	16	272877	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	16	235005	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	48	252380	19.0
+	"Other synthetic narcotics"	"T40.4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	52	310865	16.7
+	"Other synthetic narcotics"	"T40.4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	49	296541	16.5
+	"Other synthetic narcotics"	"T40.4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	35	267367	13.1
+	"Other synthetic narcotics"	"T40.4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	24	241097	10.0
+	"Other synthetic narcotics"	"T40.4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	19	244113	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	18	238062	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2019"	"2019"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	14	226077	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Female"	"F"	"White"	"2106-3"	"15-19 years"	"15-19"	14	222950	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Female"	"F"	"White"	"2106-3"	"20-24 years"	"20-24"	26	242434	10.7
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Female"	"F"	"White"	"2106-3"	"25-29 years"	"25-29"	19	289906	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Female"	"F"	"White"	"2106-3"	"30-34 years"	"30-34"	21	277834	7.6
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Female"	"F"	"White"	"2106-3"	"35-39 years"	"35-39"	14	246373	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Female"	"F"	"White"	"2106-3"	"45-49 years"	"45-49"	17	229733	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Female"	"F"	"White"	"2106-3"	"50-54 years"	"50-54"	12	228637	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"25-29 years"	"25-29"	11	61597	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"20-24 years"	"20-24"	16	32194	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"25-29 years"	"25-29"	18	43083	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"30-34 years"	"30-34"	15	41022	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"35-39 years"	"35-39"	14	31488	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Male"	"M"	"Black or African American"	"2054-5"	"40-44 years"	"40-44"	12	28056	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"15-19 years"	"15-19"	43	230813	18.6
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"20-24 years"	"20-24"	78	245455	31.8
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"25-29 years"	"25-29"	127	300645	42.2
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"30-34 years"	"30-34"	111	300418	36.9
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"35-39 years"	"35-39"	76	264966	28.7
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"40-44 years"	"40-44"	49	240499	20.4
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"45-49 years"	"45-49"	53	235955	22.5
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	49	237310	20.6
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"55-59 years"	"55-59"	37	223598	16.5
+	"Other synthetic narcotics"	"T40.4"	"2020 "	"2020"	"Male"	"M"	"White"	"2106-3"	"60-64 years "	"60-64"	23	195537	11.8
+	"Other and unspecified narcotics"	"T40.6"	"2002"	"2002"	"Male"	"M"	"White"	"2106-3"	"50-54 years"	"50-54"	10	196969	Unreliable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics);"
+"T40.6 (Other and unspecified narcotics)"
+"States: Los Angeles County, CA (06037)"
+"Group By: Multiple Cause of death; Year; Gender; Race; Five-Year Age Groups"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Nov 17, 2023 8:44:42 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Nov 17, 2023 8:44:42 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Totals and sub-totals show the frequency of the selected causes of death, which may be greater than the number of deaths."
+"Note that any single death record may have up to 20 causes. More information."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Ages 85-100."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"3. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies."
+"4. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"5. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"6. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"7. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Racial Differences."
+"8. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"9. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"10. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"11. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March"
+"4, 2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"12. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
