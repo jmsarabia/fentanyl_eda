@@ -1,0 +1,29 @@
+feature_names,importance
+Year,2.5228668075329717
+Population,2.3401289313717744
+socioec quintile,0.024260348710737
+Gender_Female,0.00018137539912130852
+Gender_Male,0.3385043955584938
+Race_American Indian or Alaska Native,0.006374510114079124
+Race_Asian or Pacific Islander,0.04247637985435284
+Race_Black or African American,0.3369736207402098
+Race_More than one race,0.0011512827800299386
+Race_White,0.0002492527594833982
+Five-Year Age Groups_1-4 years,0.07522520751619563
+Five-Year Age Groups_10-14 years,0.011542951970098381
+Five-Year Age Groups_15-19 years,0.0115471797976197
+Five-Year Age Groups_20-24 years,0.036524289672094166
+Five-Year Age Groups_25-29 years,0.06171269846860857
+Five-Year Age Groups_30-34 years,0.07738799606505732
+Five-Year Age Groups_35-39 years,0.05256111239576716
+Five-Year Age Groups_40-44 years,0.07997446813251496
+Five-Year Age Groups_45-49 years,0.014874975468268437
+Five-Year Age Groups_5-9 years,0.0208479387014741
+Five-Year Age Groups_50-54 years,0.1376428043969438
+Five-Year Age Groups_55-59 years,0.021368518509700774
+Five-Year Age Groups_60-64 years ,0.009905882535676026
+Five-Year Age Groups_65-69 years,0.01216039519893557
+Five-Year Age Groups_70-74 years,1.3984147260048817e-05
+Five-Year Age Groups_75-79 years,0.0011910743082049092
+Five-Year Age Groups_80-84 years,0.003804547977524886
+Five-Year Age Groups_< 1 year,0.006975608576737591
